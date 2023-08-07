@@ -15,3 +15,7 @@ By downloading and using the scripts provided by galliergh, you are automaticall
 3. You are ```allowed``` to modify the files, but are still responsible for your own actions.
 4. If you are using my scripts in your own repo, please consider giving credits.
 5. You are allowed to do everything the license says...
+
+### Disclaimer!
+This Channel DOES NOT promote or encourage ANY ILLEGAL activities,
+all contents provided by this Channel is meant for EDUCATIONAL PURPOSE only.
