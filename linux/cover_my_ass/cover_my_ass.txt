@@ -1,0 +1,14 @@
+REM Title: Cover my Ass
+REM Author: Gallier
+REM Description: clean up a little bit after connecting a target
+REM Target: Linux
+REM Props: Gallier
+REM Version: 1.0
+REM Category: 
+
+
+REM ==================================================
+REM = Start Program                                  =
+REM ==================================================
+
+DELAY 1000
